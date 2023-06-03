@@ -1,0 +1,1 @@
+TANGGAL   |JENIS       |CATATAN             |JUMLAH    |TOTAL SALDO
